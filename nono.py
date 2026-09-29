@@ -1,0 +1,1 @@
+print("Kakvo se sluchva")
